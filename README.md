@@ -35,7 +35,7 @@ We design and build the websites, apps, AI tools and automations a business runs
 </td>
 <td width="33%" valign="top" align="center">
 <h3>£3,000+ saved</h3>
-<sub>and 10+ new clients</sub><br>
+<sub>and 6 new clients</sub><br>
 <b>Compass Reformation · personal trainer</b><br>
 <sub>About to spend thousands on a new website; engagement wasn’t turning into clients</sub>
 </td>
