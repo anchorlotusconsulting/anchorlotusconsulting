@@ -120,11 +120,14 @@ Searches one market after another, drops anyone already on the list, then resear
 | Consultation | One problem, 30 minutes, with a short written assessment | £50 |
 | Single session | One priority, with a written summary | £100 |
 | Session packages | No expiry | £400 for 5 · £700 for 10 |
+| Business Health Analysis Report | Where you stand, and a four-month action plan. Order online | £200 |
+| AI Implementation Proposal | What AI could do for you, and how to start. Order online | £150 |
 | Business Clarity Audit | Review, process map, data check, action plan | £750–£1,500 |
 | Process Improvement Sprint | A redesigned process and a checklist to run it | £1,500–£4,000 |
 | Data &amp; Reporting Clean-Up | Cleaner data, a KPI outline, a reporting rhythm | £750–£2,500 |
 | Growth Systems Retainer | Strategy, support and reporting, monthly | from £600 |
 | Websites, business systems &amp; workflows | Designed around how you work, tested end to end | quoted |
+| Placement Income &amp; Inspection Snapshot | For children’s home providers: your occupancy ceiling and three levers. Booked in a call | £950 |
 | Children’s services specialist | Data quality, inspection preparation, statutory returns, Power BI | from £350/day outside IR35 · from £400/day inside |
 
 <sub>Scope and price are agreed in writing before anything begins. Current prices: <a href="https://anchorlotusconsulting.com/services">anchorlotusconsulting.com/services</a></sub>
