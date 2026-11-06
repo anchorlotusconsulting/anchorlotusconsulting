@@ -80,6 +80,13 @@ We design and build the websites, apps, AI tools and automations a business runs
 </tr>
 </table>
 
+### Concept website
+
+<a href="https://selva-clinic-concept.netlify.app"><img src="assets/work/selva.webp" alt="The Selva concept website in use: a palm-shadow hero, travertine statement, treatments with hover photos and a sliding clinic gallery" width="100%"></a>
+
+**Selva** · <sub>Concept website · luxury aesthetics clinic</sub><br>
+A rainforest-spa clinic in travertine, linen and living green. Smooth scroll, a cursor that answers back, and treatments that show their photo as you point. [See it live ↗](https://selva-clinic-concept.netlify.app)
+
 ### Apps, built end to end
 
 <a href="https://anchorlotusconsulting.com/about"><img src="assets/work/apps.webp" alt="Four phone apps: the Anchor Lotus members app, the Riot content agent, the Command Centre action plan and the Monthly flow budgeting app" width="100%"></a>
