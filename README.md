@@ -80,12 +80,17 @@ We design and build the websites, apps, AI tools and automations a business runs
 </tr>
 </table>
 
-### Concept website
+### Concept websites
 
 <a href="https://selva-clinic-concept.netlify.app"><img src="assets/work/selva.webp" alt="The Selva concept website in use: a palm-shadow hero, travertine statement, treatments with hover photos and a sliding clinic gallery" width="100%"></a>
 
 **Selva** · <sub>Concept website · luxury aesthetics clinic</sub><br>
 A rainforest-spa clinic in travertine, linen and living green. Smooth scroll, a cursor that answers back, and treatments that show their photo as you point. [See it live ↗](https://selva-clinic-concept.netlify.app)
+
+<a href="https://safe-invest-gambia-concept.netlify.app"><img src="assets/work/safe-invest-gambia.webp" alt="The Safe Invest Gambia concept website in use: a sunny drone film in a tall arch among four smaller arches, opening to the full screen as the limestone page rises" width="100%"></a>
+
+**Safe Invest Gambia** · <sub>Concept website · property in The Gambia and Senegal</sub><br>
+A verified-property office for the Atlantic coast. A sunny drone film plays inside a tall arch that opens to the full screen, the eight legal checks turn gold in a ring of standing stones, and every price is shown in full. [See it live ↗](https://safe-invest-gambia-concept.netlify.app)
 
 ### Apps, built end to end
 
