@@ -84,7 +84,7 @@ We design and build the websites, apps, AI tools and automations a business runs
 
 <img src="assets/work/compass-reformation.webp" alt="A recording of the Compass Reformation website: Ryan and a lion face each other in a misty jungle, turn face to face, and the title Enter the Jungle rises" width="100%">
 
-**Compass Reformation** · <sub>Client website · personal training, South London</sub><br>
+**Compass Reformation** · <sub>Client website · Personal training, South London</sub><br>
 A website for a personal trainer in South London. It opens on a film you scroll through: Ryan and a lion face each other in a misty jungle, turn face to face, and the title Enter the Jungle rises. Below it sit his story, his four pillars, his services and films from real clients, with booking and payments built in.
 
 ### Concept websites
