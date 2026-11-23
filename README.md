@@ -92,6 +92,11 @@ A rainforest-spa clinic in travertine, linen and living green. Smooth scroll, a 
 **Safe Invest Gambia** · <sub>Concept website · property in The Gambia and Senegal</sub><br>
 A verified-property office for the Atlantic coast. A sunny drone film plays inside a tall arch that opens to the full screen, the eight legal checks turn gold in a ring of standing stones, and every price is shown in full. [See it live ↗](https://safe-invest-gambia-concept.netlify.app)
 
+<img src="assets/work/sams-kitchen.webp" alt="The Sam's Kitchen concept website in use: a golden-hour beach welcome, then a 3D walk down a market lane of painted Caribbean shopfronts and food stalls" width="100%">
+
+**Sam's Kitchen** · <sub>Concept website · Jamaican kitchen</sub><br>
+A restaurant site that feels like stepping into a beach bar at golden hour. Scroll and you walk down a 3D market lane of painted Caribbean shopfronts and food stalls to the bar at the end, and the menu plays like a record. Sam's Kitchen is a made-up brand.
+
 ### Apps, built end to end
 
 <a href="https://anchorlotusconsulting.com/about"><img src="assets/work/apps.webp" alt="Four phone apps: the Anchor Lotus members app, the Riot content agent, the Command Centre action plan and the Monthly flow budgeting app" width="100%"></a>
